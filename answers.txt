@@ -4,4 +4,8 @@ Answer: It provides a way of managing version history that can be useful as your
 
 Q2: What field could data science be applied to? Give and Example and how it might help
 
-Answer: Data science can be used in the medical field to help combat illness. For instance, a patient's data might be examined to find if they're at an elevated risk of some disease.
+Answer: Data science could be used in the medical field to help combat illness. For instance, a patient's data might be examined to find if they're at an elevated risk of some disease.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: In a merge, changes from one branch are brought into the destination in a new commit. In a rebase, a branch effectively has its starting point moved (e.g., to a more recent point in the main branch's history).
